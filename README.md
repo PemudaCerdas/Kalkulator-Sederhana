@@ -1,2 +1,2 @@
-# M. Yoga Adi Saputra
+# KALKULATOR-SEDERHANA
 Program Java Kalkulator Sederhana
